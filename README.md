@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Ole! 👋</h1>
 
 <p align="center">
-  I'm a passionate **Full Stack Developer** with a love for creating impactful web applications. Currently working at **Twitch Rivals** as a Developer, I specialize in both frontend and backend development. 🚀 I'm always looking for exciting freelance projects and opportunities to collaborate with talented individuals and teams. Let's make something amazing together! 🌟
+  I'm a passionate **Full Stack Developer** with a focus on building scalable, efficient, and user-centric web applications. Currently, I work as a Developer at **Twitch Rivals**, where I am always challenged to bring my best to the table. I am open to new freelance projects and love collaborating with like-minded developers to create amazing products. 🚀 Let's connect and build something incredible! 🌟
 </p>
 
 <br>
@@ -43,6 +43,21 @@
 
 ---
 
+## 🌱 My Journey as a Developer
+
+I started my journey in tech with a fascination for building things that solve real problems. Initially, I focused on **frontend development**, building intuitive interfaces and engaging user experiences. Over time, I developed an interest in **backend development**, learning about servers, databases, and the complex architecture that powers modern web applications.
+
+From there, I dived into full-stack development, building applications end-to-end with technologies like **Node.js**, **React**, and **MongoDB**. Today, I am constantly evolving my skills and exploring new areas like **AI**, **Blockchain**, and **Cloud Computing**. The journey is always ongoing, and I am excited about the future of tech! ✨
+
+---
+
+## 📅 Latest Activity
+
+### 📝 **Recent Contributions**
+- **November 2024**: Joined **Twitch Rivals** as a **Developer**! Excited to work on cutting-edge technologies and contribute to the development of amazing experiences for the Twitch community. 🚀
+
+---
+
 ## 🌱 I’m Currently Learning
 
 - **AI & Machine Learning**: Exploring the exciting world of AI and how we can leverage it to create smarter applications. 🤖
@@ -50,6 +65,5 @@
 - **Advanced Backend Architectures**: Diving deeper into microservices, cloud infrastructure, and optimizing large-scale systems. ☁️
 
 ---
-
 
 **“The future belongs to those who believe in the beauty of their code.”** 💻✨
