@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
+      <img src="https://fancy-readme-stats.vercel.app/api?username=max1mde&title=Ole&theme=city&dark_bg=3&hide_border=false&height=210&description=fullstack&footer=developer&include_all_commits=true&update=2">
+  </a>
+</div>
+
+---
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=33daff&vCenter=true&repeat=false&width=435&height=80&lines=About+me)]()<br>
 Hi, my name is Ole!
 
