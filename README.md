@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
-      <img src="https://fancy-readme-stats.vercel.app/api?username=oleeeedev&title=ole&theme=city&dark_bg=3&hide_border=false&height=210&description=%20&footer=Fullstack%20Developer%20✨&include_all_commits=true&update=2">
+      <img src="https://fancy-readme-stats.vercel.app/api?username=oleeeedev&title=ole&theme=city&dark_bg=3&hide_border=false&height=210&description=%20&footer=Backend%20Enthusiast%20✨&include_all_commits=true&update=2">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=2000&pause=3000&color=33daff&vCenter=true&repeat=false&width=435&height=80&lines=Tools+%26+Languages)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=2000&pause=3000&color=33daff&vCenter=true&repeat=false&width=435&height=80&lines=Tools+%26+Technologies)
 
 ---
 
@@ -45,25 +45,19 @@
 
 ## 🌱 My Journey as a Developer
 
-I started my journey in tech with a fascination for building things that solve real problems. Initially, I focused on **frontend development**, building intuitive interfaces and engaging user experiences. Over time, I developed an interest in **backend development**, learning about servers, databases, and the complex architecture that powers modern web applications.
+I started my journey in tech by diving deep into backend development, focusing on creating APIs and handling complex data structures. Over time, I became fascinated with containerization tools like **Docker** and orchestration platforms like **Kubernetes**, which allow applications to scale efficiently.  
 
-From there, I dived into full-stack development, building applications end-to-end with technologies like **Node.js**, **React**, and **MongoDB**. Today, I am constantly evolving my skills and exploring new areas like **AI**, **Blockchain**, and **Cloud Computing**. The journey is always ongoing, and I am excited about the future of tech! ✨
+Today, I specialize in building high-performance backend systems, managing cloud infrastructures, and implementing CI/CD pipelines. My current focus is on mastering advanced backend architectures and optimizing server-side performance for cloud-native applications.  
+
+The world of backend development is constantly evolving, and I’m excited to keep learning and growing! ✨
 
 ---
 
 ## 📅 Latest Activity
 
 ### 📝 **Recent Contributions**
-- **November 2024**: Joined **Twitch Rivals** as a **Developer**! Excited to work on cutting-edge technologies and contribute to the development of amazing experiences for the Twitch community. 🚀
+- **November 2024**: Joined **Twitch Rivals** as a **Developer**! Excited to work on backend systems that scale globally and support millions of users. 🚀
 
 ---
 
-## 🌱 I’m Currently Learning
-
-- **AI & Machine Learning**: Exploring the exciting world of AI and how we can leverage it to create smarter applications. 🤖
-- **Blockchain Development**: Getting hands-on with blockchain to build decentralized applications. ⛓️
-- **Advanced Backend Architectures**: Diving deeper into microservices, cloud infrastructure, and optimizing large-scale systems. ☁️
-
----
-
-**“The future belongs to those who believe in the beauty of their code.”** 💻✨
+**“Efficient code drives innovation, and well-designed systems power the future.”** 💻✨
