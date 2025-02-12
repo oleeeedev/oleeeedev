@@ -56,4 +56,8 @@ The ever-evolving tech landscape excites me, and I'm committed to staying at the
 
 ---
 
+## 🎓 My certificates
+
+![Java Certificate](java-certificate.jpg)
+
 **“Efficient code drives innovation, and well-designed systems power the future.”** 💻✨
