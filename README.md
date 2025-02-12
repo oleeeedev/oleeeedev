@@ -14,8 +14,6 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=2000&pause=3000&color=33daff&vCenter=true&repeat=false&width=435&height=80&lines=Tools+%26+Technologies)
-
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
