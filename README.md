@@ -1,10 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/max1mde/fancy-readme-stats" target="_blank">
-      <img src="https://fancy-readme-stats.vercel.app/api?username=oleeeedev&title=ole&theme=city&dark_bg=3&hide_border=false&height=210&description=%20&footer=Frontend%20Enthusiast%20✨&include_all_commits=true&update=2">
-  </a>
-</div>
-
 ---
 
 <h1 align="center">Hi, I'm Ole! 👋</h1>
@@ -62,6 +56,16 @@ The ever-evolving tech landscape excites me, and I'm committed to staying at the
 ![React Certificate](react-certificate.jpg)
 ![Sql Certificate](sql-certificate.jpg)
 ![Kotlin Certificate](kotlin-certificate.jpg)
+
+---
+
+## 📬 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/ole-schumacher-620614321/)
+- [Fiverr](https://de.fiverr.com/javainterface)
+- Email: business@oleeeedev.de
+
+Feel free to reach out for freelance projects, collaborations, or just to say hi! 🚀
 
 ---
 
